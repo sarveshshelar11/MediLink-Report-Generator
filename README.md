@@ -192,6 +192,3 @@ SECTION 11 — FUTURE IMPROVEMENTS
 
 THNAK YOU !!!
 
-In LMS submissions
-
-Because it avoids Markdown-heavy styling.
