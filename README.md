@@ -190,22 +190,7 @@ SECTION 11 — FUTURE IMPROVEMENTS
 • Browser-based PDF preview
 • REST API integration with hospital systems
 
-===================================================================
-
-SECTION 12 — GITHUB
-
-Repository Link:
-https://github.com/sarveshshelar11/MediLink-Report-Generator
-
-===================================================================
-
-✔ THIS VERSION WILL DISPLAY CORRECTLY
-
-In GitHub
-
-In PebblePad
-
-In Word/PDF export
+THNAK YOU !!!
 
 In LMS submissions
 
